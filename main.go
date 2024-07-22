@@ -1,1 +1,4 @@
-package torrent
+package main
+
+func main() {
+}
